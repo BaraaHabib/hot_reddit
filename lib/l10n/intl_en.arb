@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "retry" : "Retry ",
+  "hotPosts": "Hot Posts",
+  "back": "Back",
+  "noItemsFound": "No {items} Found",
+  "comments": "Comments",
+  "posts": "Posts",
+  "viewReplies": "View replies",
+  "comment": "Comment",
+  "pressBackAgainToExit": "Press back again to exit"
+}
